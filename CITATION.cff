@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Dynamical Coherence Budget: Models, Toolchain, and Case Studies"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Saei
+    given-names: Sajjad
+    email: sajjadsaei97@gmail.com
+date-released: 2025-09-04
+version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxxx"
+url: "https://zenodo.org/record/xxxxxxx"
+license: MIT
