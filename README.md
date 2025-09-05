@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/1051022869.svg)](https://doi.org/10.5281/zenodo.17062605)
+
+https://doi.org/10.5281/zenodo.17062605
+
 # Dynamical Coherence Budget: Models, Toolchain, and Case Studies
 
 **Author:** Sajjad Saei  
